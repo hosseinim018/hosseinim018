@@ -1,6 +1,6 @@
 # 💫 About Me:
 I have been passionate about programming since childhood, and I was born in 2000.My primary focus has been on Python for the past four years, during which time I have honed my skills to a professional level. I have a strong interest in web design and machine learning, which I have been pursuing from the outset.<br><br>I have also gained experience in other programming languages, such as JavaScript, and have worked with frameworks such as Django, Vue.js, and Flask. Additionally, I have a keen interest in the field of cryptocurrency and blockchain technology.
-
+ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/metihosseini) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hosseini.meti) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hosseini_meti) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeCasts365) 
